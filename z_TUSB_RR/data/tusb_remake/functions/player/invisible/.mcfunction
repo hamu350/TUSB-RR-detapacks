@@ -18,6 +18,6 @@ execute if entity @s[nbt={ActiveEffects:[{Id:14,Amplifier:6b}]},tag=Doom] run fu
 
 ### RR追加
 # バフ解除
-execute if entity @s[nbt={ActiveEffects:[{Id:14,Amplifier:6b}]}] run function tusb_remake:
+# execute if entity @s[nbt={ActiveEffects:[{Id:14,Amplifier:6b}]}] run function tusb_remake:
 
 effect clear @s minecraft:invisibility
