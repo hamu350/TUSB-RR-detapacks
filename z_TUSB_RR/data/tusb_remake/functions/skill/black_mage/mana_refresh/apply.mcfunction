@@ -1,4 +1,4 @@
-#> skill:job/black_mage/mana_refresh/apply
+#> tusb_remake:skill/black_mage/mana_refresh/apply
 # マナリフレッシュをかける
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

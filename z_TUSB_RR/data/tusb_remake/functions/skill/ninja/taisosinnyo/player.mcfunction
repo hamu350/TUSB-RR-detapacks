@@ -1,4 +1,4 @@
-#> skill:job/ninja/taisosinnyo/player
+#> tusb_remake:skill/ninja/taisosinnyo/player
 #
 # 
 

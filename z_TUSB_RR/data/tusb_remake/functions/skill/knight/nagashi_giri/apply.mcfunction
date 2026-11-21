@@ -1,4 +1,4 @@
-#> skill:job/knight/nagashi_giri/apply
+#> tusb_remake:skill/knight/nagashi_giri/apply
 ### 流し斬りがヒットした敵に効果をかける
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

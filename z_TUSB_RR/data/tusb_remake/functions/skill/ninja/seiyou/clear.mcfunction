@@ -1,4 +1,4 @@
-#> skill:job/ninja/choyaku/clear
+#> tusb_remake:skill/ninja/choyaku/clear
 ### 跳躍の効果切れ
 
 scoreboard players reset @s seiyou

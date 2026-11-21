@@ -1,4 +1,4 @@
-#> skill:job/archer/chain_arrow/hit/damage
+#> tusb_remake:skill/archer/chain_arrow/hit/damage
 # チェインアローが直接当たった時
 
 ### 演出する表示するカウントが残っているときだけ表示

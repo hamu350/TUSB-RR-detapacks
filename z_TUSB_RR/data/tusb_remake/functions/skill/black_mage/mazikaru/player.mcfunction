@@ -1,4 +1,4 @@
-#> skill:job/black_mage/mazikaru/player
+#> tusb_remake:skill/black_mage/mazikaru/player
 
 execute at @s store result score @s mazikaru if entity @e[type=#lib:mob,tag=Enemy,distance=..8,limit=10]
 

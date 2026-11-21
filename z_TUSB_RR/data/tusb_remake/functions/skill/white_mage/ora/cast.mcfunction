@@ -1,4 +1,4 @@
-#> skill:job/white_mage/ora/cast
+#> tusb_remake:skill/white_mage/ora/cast
 
 playsound entity.illusioner.prepare_blindness master @a[distance=..32] ~ ~ ~ 2 1.2 0.1
 ### 4097?

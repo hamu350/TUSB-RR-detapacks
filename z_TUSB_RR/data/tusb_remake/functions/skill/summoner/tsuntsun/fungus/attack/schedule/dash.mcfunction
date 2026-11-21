@@ -1,4 +1,4 @@
-#> skill:job/summoner/tsuntsun/fungus/attack/schedule/dash
+#> tusb_remake:skill/summoner/tsuntsun/fungus/attack/schedule/dash
 ### 突進しているウルフの演出
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

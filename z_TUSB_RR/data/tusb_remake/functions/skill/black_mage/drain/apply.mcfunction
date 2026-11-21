@@ -1,4 +1,4 @@
-#> skill:job/black_mage/drain/apply
+#> tusb_remake:skill/black_mage/drain/apply
 # ドレインで吸われる側
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

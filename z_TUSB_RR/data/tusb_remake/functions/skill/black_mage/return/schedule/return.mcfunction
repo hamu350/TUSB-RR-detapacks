@@ -1,4 +1,4 @@
-#> skill:job/black_mage/return/schedule/return
+#> tusb_remake:skill/black_mage/return/schedule/return
 # ルーラ待機(507X)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

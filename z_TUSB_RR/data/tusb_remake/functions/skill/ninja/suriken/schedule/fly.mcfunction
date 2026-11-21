@@ -1,4 +1,4 @@
-#> skill:job/ninja/suriken/schedule/fly
+#> tusb_remake:skill/ninja/suriken/schedule/fly
 ### 飛んでいる手裏剣の演出
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

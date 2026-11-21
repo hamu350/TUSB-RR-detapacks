@@ -1,4 +1,4 @@
-#> skill:job/archer/madan/apply/arrow
+#> tusb_remake:skill/archer/madan/apply/arrow
 
 ### damage * 100 + 10000
 scoreboard players add @s ProjectileSkill 100000

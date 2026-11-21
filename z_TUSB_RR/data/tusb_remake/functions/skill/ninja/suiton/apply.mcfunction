@@ -1,4 +1,4 @@
-#> skill:job/ninja/suiton/apply
+#> tusb_remake:skill/ninja/suiton/apply
 # 水遁を発動させる(202X)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

@@ -1,4 +1,4 @@
-#> skill:job/summoner/summon_balloon/schedule/check
+#> tusb_remake:skill/summoner/summon_balloon/schedule/check
 ### バルーン発射までの演出
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

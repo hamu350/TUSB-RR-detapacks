@@ -1,4 +1,4 @@
-#> skill:job/summoner/hey_cmon/tp/pet
+#> tusb_remake:skill/summoner/hey_cmon/tp/pet
 # ヘイカモン(6020)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

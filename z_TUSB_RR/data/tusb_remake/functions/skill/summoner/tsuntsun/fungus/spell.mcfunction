@@ -1,4 +1,4 @@
-#> skill:job/summoner/tsuntsun/fungus/spell
+#> tusb_remake:skill/summoner/tsuntsun/fungus/spell
 # つんつん(キノコ棒)を詠唱(624X)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.
@@ -7,10 +7,10 @@
 scoreboard players operation @s ActivatedSkill = @s CurrentMode
 scoreboard players operation @s MPConsumption = @s CurrentModeCost
 ### MPチェック
-function skill:check_mp/
+function tusb_remake:skill/check_mp/
 
 scoreboard players operation _ ActivatedSkill = @s ActivatedSkill
-execute if score _ ActivatedSkill matches 6240..6249 run function skill:job/summoner/tsuntsun/fungus/cast
+execute if score _ ActivatedSkill matches 6240..6249 run function tusb_remake:skill/summoner/tsuntsun/fungus/cast
 
 
 ### 火薬　OrderType 0

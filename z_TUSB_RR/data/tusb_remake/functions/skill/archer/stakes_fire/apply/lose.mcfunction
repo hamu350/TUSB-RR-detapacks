@@ -1,4 +1,4 @@
-#> skill:job/archer/stakes_fire/apply/lose
+#> tusb_remake:skill/archer/stakes_fire/apply/lose
 ### ステークスファイアで負けた
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

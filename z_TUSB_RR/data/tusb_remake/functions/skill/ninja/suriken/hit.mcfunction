@@ -1,4 +1,4 @@
-#> skill:job/ninja/suriken/hit
+#> tusb_remake:skill/ninja/suriken/hit
 # 手裏剣が当たった時
 
 playsound entity.endermite.step master @a[distance=..32] ~ ~ ~ 2 0.7 1

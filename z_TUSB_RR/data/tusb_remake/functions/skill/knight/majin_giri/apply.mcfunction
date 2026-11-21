@@ -1,4 +1,4 @@
-#> skill:job/knight/majin_giri/apply
+#> tusb_remake:skill/knight/majin_giri/apply
 ### 魔人斬りで対象を斬る
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

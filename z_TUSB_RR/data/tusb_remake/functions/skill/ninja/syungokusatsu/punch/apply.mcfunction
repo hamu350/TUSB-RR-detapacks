@@ -1,4 +1,4 @@
-#> skill:job/ninja/Syungoku/punch/apply
+#> tusb_remake:skill/ninja/Syungoku/punch/apply
 ### 流し斬りがヒットした敵に効果をかける
 
 # あまりにも強すぎるのでTLEでの連舞はナーフする

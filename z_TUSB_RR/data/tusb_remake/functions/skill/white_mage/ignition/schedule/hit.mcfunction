@@ -1,4 +1,4 @@
-#> skill:job/white_mage/ignition/schedule/hit
+#> tusb_remake:skill/white_mage/ignition/schedule/hit
 
 ### マルチヒット防止のエフェクト
 effect give @s minecraft:saturation 10 127 true

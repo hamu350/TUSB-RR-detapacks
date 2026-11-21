@@ -1,4 +1,4 @@
-#> skill:job/summoner/summon_wolf/
+#> tusb_remake:skill/summoner/summon_wolf/
 # ウルフを召喚(6040)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

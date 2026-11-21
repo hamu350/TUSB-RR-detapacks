@@ -1,4 +1,4 @@
-#> skill:job/black_mage/cross_fire/schedule/hit
+#> tusb_remake:skill/black_mage/cross_fire/schedule/hit
 # クロスファイアーが当たった時
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

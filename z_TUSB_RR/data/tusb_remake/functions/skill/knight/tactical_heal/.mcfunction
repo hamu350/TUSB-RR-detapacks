@@ -1,4 +1,4 @@
-#> skill:job/knight/tactical_heal/
+#> tusb_remake:skill/knight/tactical_heal/
 # タクティカルヒールを発動させる(104X)
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

@@ -1,4 +1,4 @@
-#> skill:job/ninja/seiyou/apply
+#> tusb_remake:skill/ninja/seiyou/apply
 ### 跳躍発動時の処理
 
 scoreboard players add @s seiyou 3

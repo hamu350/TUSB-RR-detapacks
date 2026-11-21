@@ -1,9 +1,9 @@
-#> skill:job/knight/phalanx/sneaking
+#> tusb_remake:skill/knight/phalanx/sneaking
 
 # スニーク時の処理
 
 # まず自身につける
-function skill:job/knight/phalanx/apply
+function tusb_remake:skill/knight/phalanx/apply
 
 # その後周囲につける
-execute as @a[distance=..15] at @s run function skill:job/knight/phalanx/apply_sneak
+execute as @a[distance=..15] at @s run function tusb_remake:skill/knight/phalanx/apply_sneak

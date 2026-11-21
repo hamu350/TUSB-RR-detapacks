@@ -1,10 +1,10 @@
-#> skill:job/black_mage/lightning_shower/spell
+#> tusb_remake:skill/black_mage/lightning_shower/spell
 
 ###
 scoreboard players operation @s ActivatedSkill = @s CurrentMode
 scoreboard players operation @s MPConsumption = @s CurrentModeCost
 ### MPチェック
-function skill:check_mp/
+function tusb_remake:skill/check_mp/
 
 scoreboard players operation _ ActivatedSkill = @s ActivatedSkill
-execute if score _ ActivatedSkill matches 5270..5279 run function skill:job/black_mage/lightning_shower/cast
+execute if score _ ActivatedSkill matches 5270..5279 run function tusb_remake:skill/black_mage/lightning_shower/cast

@@ -1,4 +1,4 @@
-#> skill:job/archer/bird_strike/hit/schedule/fall
+#> tusb_remake:skill/archer/bird_strike/hit/schedule/fall
 # バードストライク効果中
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

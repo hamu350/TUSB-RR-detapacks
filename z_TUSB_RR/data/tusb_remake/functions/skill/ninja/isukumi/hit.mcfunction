@@ -1,4 +1,4 @@
-#> skill:job/ninja/isukumi/hit
+#> tusb_remake:skill/ninja/isukumi/hit
 # 居縮が当たった時
 
 tag @s add Freeze

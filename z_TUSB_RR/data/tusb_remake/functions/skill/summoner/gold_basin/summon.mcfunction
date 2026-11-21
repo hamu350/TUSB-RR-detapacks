@@ -1,4 +1,4 @@
-#> skill:job/summoner/gold_basin/summon
+#> tusb_remake:skill/summoner/gold_basin/summon
 # 金タライ発動
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

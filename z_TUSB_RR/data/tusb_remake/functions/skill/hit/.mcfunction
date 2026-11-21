@@ -15,6 +15,8 @@ execute as @s[scores={CurrentMode=1250..1259},predicate=tusb_remake:has_sword] r
 execute as @s[scores={CurrentMode=2210..2219}] run function tusb_remake:skill/ninja/tsuremai/hit
 ### 夢想
 execute as @s[scores={CurrentMode=1270..1279},predicate=tusb_remake:has_sword] run function tusb_remake:skill/knight/musou/hit
+### ブレードワルツ
+execute as @s[scores={CurrentMode=1280..1289},predicate=tusb_remake:has_sword] run function tusb_remake:skill/knight/waltz/spell
 
 ### エンアスピル
 execute as @s[scores={EnAspir=0..}] run function tusb_remake:skill/black_mage/enaspir/hit

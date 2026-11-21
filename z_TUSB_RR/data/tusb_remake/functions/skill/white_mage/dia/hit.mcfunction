@@ -1,4 +1,4 @@
-#> skill:job/white_mage/dia/hit
+#> tusb_remake:skill/white_mage/dia/hit
 # ディアが当たった時
 
 ### リメイク：威力を倍に

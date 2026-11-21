@@ -1,4 +1,4 @@
-#> skill:job/knight/iron_will/check_continue
+#> tusb_remake:skill/knight/iron_will/check_continue
 #
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

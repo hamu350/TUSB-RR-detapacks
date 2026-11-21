@@ -1,4 +1,4 @@
-#> skill:job/ninja/isukumi/schedule/fly
+#> tusb_remake:skill/ninja/isukumi/schedule/fly
 ### 飛んでいる居縮の演出
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.
