@@ -12,4 +12,4 @@ execute as @e[distance=0,tag=!ChainArrow,type=#lib:arrow,limit=1] run function t
 # function tusb_remake:skill/archer/stakes_fire/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/

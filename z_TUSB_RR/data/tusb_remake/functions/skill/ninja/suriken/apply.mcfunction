@@ -27,4 +27,4 @@ execute in minecraft:overworld run schedule function tusb_remake:skill/ninja/sur
 function tusb_remake:skill/ninja/suriken/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/

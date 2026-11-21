@@ -1,4 +1,4 @@
-#> skill:trigger/hit/legacy/init
+#> tusb_remake:skill/hit/legacy/init
 # レガシーアイテムの初期化
 
 ## 1~7を取得

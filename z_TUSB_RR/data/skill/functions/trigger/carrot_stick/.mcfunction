@@ -1,4 +1,4 @@
-#> skill:trigger/carrot_stick/
+#> tusb_remake:skill/carrot_stick/
 # ニンジン棒を使った時
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

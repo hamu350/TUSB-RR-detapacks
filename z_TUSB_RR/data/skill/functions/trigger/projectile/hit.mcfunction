@@ -1,4 +1,4 @@
-#> skill:trigger/projectile/hit
+#> tusb_remake:skill/projectile/hit
 # 飛んでるのが当たった敵
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

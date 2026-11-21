@@ -10,4 +10,4 @@ execute as @e[distance=0,tag=!BirdStrike,type=#lib:arrow,limit=1] run function t
 function tusb_remake:skill/archer/bird_strike/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/

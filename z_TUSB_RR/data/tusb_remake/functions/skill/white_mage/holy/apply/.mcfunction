@@ -12,4 +12,4 @@ execute as @e[distance=..8,type=#lib:mob,tag=Enemy,nbt=!{ActiveEffects:[{Id:23}]
 function tusb_remake:skill/white_mage/holy/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/

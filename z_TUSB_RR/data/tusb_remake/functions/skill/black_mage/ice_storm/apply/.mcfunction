@@ -9,4 +9,4 @@ execute as @e[distance=0,type=snowball,limit=1] run function tusb_remake:skill/b
 function tusb_remake:skill/black_mage/ice_storm/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/

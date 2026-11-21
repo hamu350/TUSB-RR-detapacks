@@ -1,4 +1,4 @@
-#> skill:trigger/projectile/check/normal
+#> tusb_remake:skill/projectile/check/normal
 # ノーマル
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.

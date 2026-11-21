@@ -10,4 +10,4 @@ scoreboard players operation @s ProjectileSkill = _ ActivatedSkill
 function tusb_remake:skill/white_mage/dia/schedule/
 
 ### 飛んでるやつの判定有効化
-function skill:trigger/projectile/
+function tusb_remake:skill/projectile/
