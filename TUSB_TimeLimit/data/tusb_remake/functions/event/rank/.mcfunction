@@ -25,7 +25,7 @@ execute if score @s EventRank matches 90..99 if score @s ChooseEvent matches 1 r
 # TLE
 
 execute if score @s EventRank matches ..-1 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/none
-execute if score @s EventRank matches 0..9 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/tle_addition/acceralator
+execute if score @s EventRank matches 0..9 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/none
 execute if score @s EventRank matches 10..19 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/tle_addition/lost_animal
 execute if score @s EventRank matches 20..29 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/tle_addition/pandemic
 execute if score @s EventRank matches 30..39 if score @s ChooseEvent matches 2 run function tusb_remake:event/rank/tle_addition/hells_emissary

@@ -23,6 +23,11 @@ execute in the_nether run forceload add 3500 3500 3500 3500
 execute in the_end run forceload add 3500 3500 3500 3500
 schedule function tusb_remake:load/set_shulker_box 1t
 
+# boss_marker
+execute in overworld run forceload add -2769 -280 -2769 -280
+execute in overworld run forceload add -2986 -41 -2986 -41
+function tusb_remake:load/marker_summon
+
 ### 超作業台置き換え
 execute in overworld run forceload add -2737 -392 -2721 -353
 schedule function tusb_remake:load/sagyou 1t
@@ -414,3 +419,8 @@ function tusb_remake:game_master/chest/dataset
 function time_limit:load/scoreboard_make
 
 data modify storage tusb_remake: settings.version set value "1.2.0"
+
+
+scoreboard objectives add Syungoku dummy "瞬獄殺レベル"
+
+

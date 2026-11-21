@@ -15,14 +15,4 @@ execute in minecraft:overworld positioned 4001 1 4001 run function tusb_remake:g
 ### 時計島の段階を記録
 data modify storage tusb_remake: clock_stage set value 3
 
-# 追加部分
-
-# 演出
-worldborder warning distance 20000
-execute in minecraft:overworld run schedule function tusb_remake:gimmic/clock/half_tick 10t
-# msg
-tellraw @a [{"text":"時の流れがおかしくなった気がする！","bold": false,"color": "#FF2A2A"}]
-tellraw @a [{"text":"すぐに時の乱れを止めないと...！","bold": false,"color": "#FF2A2A"}]
-
 # 時計島タイマー起動！
-scoreboard players set Cloak Changed_Form 1

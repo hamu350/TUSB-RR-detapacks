@@ -14,4 +14,4 @@ execute if score _ TUSB matches 11.. in minecraft:overworld run schedule functio
 
 
 # 時計島タイマー起動！
-execute if score _ TUSB matches 11.. run scoreboard players set Cloak Changed_Form 1
+execute if score _ TUSB matches 11.. run 

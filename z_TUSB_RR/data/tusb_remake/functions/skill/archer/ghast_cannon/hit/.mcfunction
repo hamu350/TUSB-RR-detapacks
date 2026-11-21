@@ -16,4 +16,4 @@ execute if score _ PotentialSkill matches 3250 as @e[distance=..3,type=#lib:mob,
 execute if score _ PotentialSkill matches 3251..3259 as @e[distance=..6,type=#lib:mob,tag=Enemy] run function score_damage:api/attack
 
 ### サバイバルエリアなら爆発させる
-execute if predicate world_manager:area/survival run function tusb_remake:skill/archer/ghast_cannon/hit/blast
+execute if predicate tusb_remake:area/survival run function tusb_remake:skill/archer/ghast_cannon/hit/blast
