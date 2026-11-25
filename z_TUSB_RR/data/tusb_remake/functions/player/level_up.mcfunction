@@ -3,8 +3,8 @@
 ### Copyright © 2022 赤石愛
 ### This software is released under the MIT License, see LICENSE.
 
-### レベルが100以下の場合だけレベルアップ
-scoreboard players add @s[scores={Level=..99}] Level 1
+### レベルが500以下の場合だけレベルアップ
+scoreboard players add @s[scores={Level=..499}] Level 1
 ### 最大MPはレベルに関わらずあがる
 scoreboard players add @s MPMax 1
 ### 最大500
@@ -42,6 +42,7 @@ execute if entity @s[scores={Level=1..50}] run function tusb_remake:player/skill
 execute if entity @s[scores={Level=51}] run function tusb_remake:player/skill/learn/
 execute if entity @s[scores={Level=75}] run function tusb_remake:player/skill/learn/
 execute if entity @s[scores={Level=100}] run function tusb_remake:player/skill/learn/
+execute if entity @s[scores={Level=500}] run function tusb_remake:player/skill/learn/
 ### 次の経験値の設定
 function tusb_remake:player/hp/set_max
 effect give @s instant_health 1 6 true
@@ -50,3 +51,6 @@ execute store result score _ TUSB run data get storage tusb_remake: Const.ExpMul
 scoreboard players operation @s NextExp *= _ TUSB
 scoreboard players operation @s ExpToLevel += @s NextExp
 execute as @a if score @s ExpToLevel matches 350.. run scoreboard players set @s ExpToLevel 350
+
+### lv100報告
+execute if entity @s[scores={Level=100}] run tellraw @a {"translate": "%s のレベルが 100 になった！","color": "green","with": [{"selector": "@s"}]}

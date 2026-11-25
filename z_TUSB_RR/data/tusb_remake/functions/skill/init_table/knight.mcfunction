@@ -15,7 +15,7 @@ data modify storage tusb_remake: _.1 set value {name:["アイアンウィル","�
 data modify storage tusb_remake: _.2 set value {name:["ストライ","ストライⅡ","ストライⅢ"],level:[10,25,40],cost:15,description:[["自身の攻撃力を上昇させる。"]],sneak:{description:[["自身の攻撃力を上昇させる。"]],range:[15]}}
 data modify storage tusb_remake: _.3 set value {name:["デコイ","デコイⅡ"],level:[18,38],cost:10,description:[["周囲の敵を引き寄せる。"]]}
 data modify storage tusb_remake: _.4 set value {name:["タクティカルヒール"],level:[43],cost:10,description:[["次に大ダメージを受けた時、HPを大きく回復する。"]]}
-data modify storage tusb_remake: _.5 set value {name:["§aウィルオブナイト"],level:[100],cost:50,description:[["周囲の味方にタクティカルヒールとストライの効果を付与する。"]],range:[15],duration:[60]}
+data modify storage tusb_remake: _.5 set value {name:["§aウィルオブナイト"],level:[500],cost:50,description:[["周囲の味方にタクティカルヒールとストライの効果を付与する。"]],range:[15],duration:[60]}
 
 # data modify storage tusb_remake: _.20 set value {name:["流し斬り","流し斬りⅡ","流し斬りⅢ"],level:[3,20,37],cost:5,description:[["てすと"]]}
 # data modify storage tusb_remake: _.21 set value {name:["薙ぎ払い","薙ぎ払いⅡ","薙ぎ払いⅢ"],level:[8,28,48],cost:10,description:[["てすと"]]}
@@ -32,6 +32,6 @@ data modify storage tusb_remake: _.24 set value {name:["魔神斬り","魔神斬
 data modify storage tusb_remake: _.25 set value {name:["斬鉄剣"],level:[50],cost:100,description:[["周囲の敵に大ダメージ。"]],condition:"剣で攻撃",range:[10]}
 data modify storage tusb_remake: _.26 set value {name:["§bウォープレリュード"],level:[75],cost:20,description:[["HPを回復しデバフを解除する。"]],condition:"被ダメージ"}
 data modify storage tusb_remake: _.27 set value {name:["§d夢想真説"],level:[100],cost:300,description:[["周囲の敵に大ダメージ。"]],condition:"剣で攻撃",range:[30]}
-data modify storage tusb_remake: _.28 set value {name:["§6ブレードワルツ"],level:[100],cost:500,description:[["発動地点を中心に周囲の敵を攻撃する斬撃を残す。"]],condition:"剣で攻撃",range:[60],duration:[10]}
+data modify storage tusb_remake: _.28 set value {name:["§6ブレードワルツ"],level:[500],cost:500,description:[["発動地点を中心に周囲の敵を攻撃する斬撃を残す。"]],condition:"剣で攻撃",range:[60],duration:[10]}
 data modify storage tusb_remake: skill_table.knight set from storage tusb_remake: _
 data remove storage tusb_remake: _

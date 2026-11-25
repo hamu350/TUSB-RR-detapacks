@@ -11,7 +11,7 @@ data modify storage tusb_remake: _.2 set value {name:["リジェネレーショ�
 data modify storage tusb_remake: _.3 set value {name:["クイック","クイックⅡ"],level:[20,35],cost:40,description:[["周囲のプレイヤーの攻撃速度を上昇させる。"]],range:[15],duration:[30]}
 data modify storage tusb_remake: _.4 set value {name:["バオル"],level:[26],cost:50,description:[["周囲のプレイヤーを潜水・炎上に強くする。"]],range:[15],duration:[30]}
 data modify storage tusb_remake: _.5 set value {name:["レイズ"],level:[39],cost:80,description:[["周囲の死んでいるプレイヤーにレイズの効果を与える。","また、自身にリレイズの効果を与える。","レイズ：一定時間、（可能であれば、）","リスポーン時に死亡地点へ復帰する。","リレイズ：死亡時にレイズの効果を得る。"]],range:[10],duration:[30]}
-data modify storage tusb_remake: _.6 set value {name:["§aララバイ"],level:[100],cost:200,description:[["周囲の味方の移動速度を極端に低下させるが、レイズを除く白魔導士の全てのサポートスキルの効果を付与する。"]],range:[10],duration:[60]}
+data modify storage tusb_remake: _.6 set value {name:["§aララバイ"],level:[500],cost:200,description:[["周囲の味方の移動速度を極端に低下させるが、レイズを除く白魔導士の全てのサポートスキルの効果を付与する。"]],range:[10],duration:[60]}
 
 # data modify storage tusb_remake: _.20 set value {name:["ケアル","ケアルⅡ","ケアルⅢ","ケアルⅣ","ケアルⅤ"],level:[1,10,25,40,49],cost:1,description:[["てすと"]]}
 # data modify storage tusb_remake: _.21 set value {name:["ディア","ディアⅡ","ディアⅢ","ディアⅣ","ディアⅤ"],level:[3,13,23,33,43],cost:1,description:[["てすと"]]}
@@ -25,7 +25,7 @@ data modify storage tusb_remake: _.23 set value {name:["ホーリー"],level:[50
 data modify storage tusb_remake: _.24 set value {name:["§b天気雨"],level:[51],cost:20,description:[["雨の降る場所の周囲にいる味方の体力を持続的に回復する。"]],condition:"ニンジン付きの棒を持って右クリック",range:[12]}
 data modify storage tusb_remake: _.25 set value {name:["§dホーリーシャワー"],level:[100],cost:150,description:[["自身の周囲に聖なる力の雨を降らす。"]],condition:"ニンジン付きの棒を持って右クリック",range:[60]}
 data modify storage tusb_remake: _.26 set value {name:["§dセイクリットオーラ"],level:[100],cost:100,description:[["範囲内の敵5体にダメージを与え、味方にバフを付与する"]],condition:"ニンジン付きの棒を持って右クリック",range:[15]}
-data modify storage tusb_remake: _.27 set value {name:["§6聖・ソウルイグニッション"],level:[100],cost:500,description:[["聖なる力を放ち、周囲の敵にダメージを与え、周囲の味方を強化する。"]],condition:"雪玉を投げる",range:[10]}
+data modify storage tusb_remake: _.27 set value {name:["§6聖・ソウルイグニッション"],level:[500],cost:500,description:[["聖なる力を放ち、周囲の敵にダメージを与え、周囲の味方を強化する。"]],condition:"雪玉を投げる",range:[10]}
 
 data modify storage tusb_remake: skill_table.white_mage set from storage tusb_remake: _
 data remove storage tusb_remake: _

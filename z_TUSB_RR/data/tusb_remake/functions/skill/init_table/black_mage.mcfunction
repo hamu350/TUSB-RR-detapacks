@@ -15,7 +15,7 @@ data modify storage tusb_remake: _.6 set value {name:["マジックシールド"
 data modify storage tusb_remake: _.7 set value {name:["ルーラ"],level:[33],cost:90,description:[["周囲のプレイヤーを交易島までワープする。","頭上が遮られていると失敗する。"]],range:"10"}
 data modify storage tusb_remake: _.8 set value {name:["ウィンドウォール"],level:[38],cost:40,description:[["自身に一定時間風が纏い、周囲の飛翔物を妨げる。"]],duration:[20],sneak:{description:[["周囲のプレイヤーに一定時間風が纏い、周囲の飛翔物を妨げる。"]],range:[15]}}
 data modify storage tusb_remake: _.9 set value {name:["ラナルータ"],level:[40],cost:80,description:[["昼夜を逆転する。"]]}
-data modify storage tusb_remake: _.10 set value {name:["§aマジカルエンゲージ"],level:[75],cost:90,description:[["自身にマジックシールド、マナリフ、エナジーセーブの効果を付与する"]]}
+data modify storage tusb_remake: _.10 set value {name:["§aマジカルエンゲージ"],level:[100],cost:90,description:[["自身にマジックシールド、マナリフ、エナジーセーブの効果を付与する"]]}
 
 # data modify storage tusb_remake: _.20 set value {name:["アイスストーム","アイスストームⅡ","アイスストームⅢ"],level:[1,20,45],cost:5,description:[["てすと"]]}
 # data modify storage tusb_remake: _.21 set value {name:["クロスファイアー","クロスファイアーⅡ","クロスファイアーⅢ"],level:[5,25,46],cost:10,description:[["てすと"]]}
@@ -32,7 +32,7 @@ data modify storage tusb_remake: _.24 set value {name:["ドレイン","ドレイ
 data modify storage tusb_remake: _.25 set value {name:["パルプンテ"],level:[50],cost:100,description:[["何が起こるか分からない。"]],condition:"ニンジン付きの棒を持って右クリック",range:[15]}
 data modify storage tusb_remake: _.26 set value {name:["§bマジカルドレイン"],level:[75],cost:80,description:[["付近の敵から体力と魔力を吸い取る。"]],condition:"ニンジン付きの棒を持って右クリック"}
 data modify storage tusb_remake: _.27 set value {name:["§dライトニングシャワー"],level:[100],cost:300,description:[["周囲の敵に一定時間雷を落とす。雷の近くにいる味方のデバフを解除し体力と魔力を回復する。"]],duration:[20],condition:"ニンジン付きの棒を持って右クリック",range:[10]}
-data modify storage tusb_remake: _.28 set value {name:["§6シャドウボルト"],level:[100],cost:500,description:[["周囲の敵を一点に集め、超特大ダメージを与える雷を落とす"]],condition:"ニンジン付きの棒を持って右クリック",range:[15]}
+data modify storage tusb_remake: _.28 set value {name:["§6シャドウボルト"],level:[500],cost:500,description:[["周囲の敵を一点に集め、超特大ダメージを与える雷を落とす"]],condition:"ニンジン付きの棒を持って右クリック",range:[15]}
 
 data modify storage tusb_remake: skill_table.black_mage set from storage tusb_remake: _
 data remove storage tusb_remake: _
